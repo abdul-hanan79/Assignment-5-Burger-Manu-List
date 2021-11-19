@@ -1,0 +1,473 @@
+.navbar{
+    background-image: linear-gradient(to top,white, black 80%);
+}
+.navbartext
+{
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
+/* ////////////////////////////////////class 1////////////////////////////////////////// */
+.class1
+{
+    justify-content: center;
+    align-items: center;
+    /* width: 1260px; */
+    height: auto;
+    background-size: cover;
+background-color: #f3f1e3;
+background-image: url('Assignment 5 Assest/Fist\ background\ pic.png');
+background-attachment: fixed;
+background-repeat: no-repeat;
+padding-bottom: 90px;
+
+/* box-shadow: 0px 70px 0px black inset; */
+
+}
+.headset{
+    padding-top: 250px;
+}
+.headset h1
+{
+    font-size: 91px;
+    line-height: 97px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Archivo";
+} 
+.headset button
+{
+    width: 322px;
+height: 65px;
+border-radius: 32px;
+background-color: #f64b3c;
+/* color: #ffffff; */
+font-weight: 700;
+font-family: "Montserrat";
+text-align: center;
+font-size: 25px;
+
+    
+
+}
+.headset p
+{
+    
+    font-size: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Nunito";
+}
+/* ////////////////////////////////////class 2////////////////////////////////////////// */
+
+.class2
+{
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/2nd\ backgrund\ pic.png');
+/* background-attachment: fixed; */
+padding: 180px;
+
+}
+
+.div2 h1
+{
+    font-size: 64px;
+color: #f64b3c;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.div2 p
+{
+ 
+font-size: 25px;
+color: #f64b3c;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
+.pics2
+{
+/* height: auto; */
+height: 160px;
+border-radius: 50%;
+}
+.aiden
+{
+    font-size: 33px;
+color: #f64b3c;
+font-weight: 700;
+font-family: "Archivo";
+/* text-align: center; */
+}
+.founder
+{
+    
+font-size: 25px;
+color: #f64b3c;
+font-weight: 600;
+font-family: "Nunito";
+/* text-align: center; */
+}
+/* ////////////////////////////////////class 3////////////////////////////////////////// */
+
+.class3
+{
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/3rd\ background\ pic.png');
+    padding: 180px;
+
+/* background-attachment: fixed; */
+}
+.burger
+{
+    height: 400px;
+    width: 400px;      
+    border-radius: 50%;
+}
+/* .burgercol
+{
+padding-top: 250px;
+} */
+.bestburger
+{
+    font-size: 75px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Archivo";
+}
+.burgerp
+{
+    
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Nunito";
+}
+.burgercol button
+{
+    width: 322px;
+    height: 65px;
+    border-radius: 32px;
+    
+    background-color: white;
+    font-size: 25px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Montserrat";
+text-align: center;
+    
+}
+/* ////////////////////////////////////class 4////////////////////////////////////////// */
+
+.class4
+{
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/4rth\ background\ pic.png');
+    padding: 180px;
+
+
+}
+.bestburger2
+{
+    font-size: 75px;
+color:orangered;
+font-weight: 700;
+font-family: "Archivo";
+}
+.burgerp2
+{
+    font-size: 30px;
+    color: orangered;
+    font-weight: 400;
+    font-family: "Nunito";
+}
+.class4 button
+{
+    width: 322px;
+    height: 65px;
+    border-radius: 32px;
+    
+    background-color:orangered;
+    font-size: 25px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Montserrat";
+text-align: center;
+   
+}
+/* ////////////////////////////////////class 5////////////////////////////////////////// */
+
+.class5
+{
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/3rd\ background\ pic.png');
+    padding: 180px;
+
+
+}
+.div3 h1
+{
+    font-size: 64px;
+color: white;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.div3 p
+{
+ 
+font-size: 25px;
+color: white;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
+.class5col
+{
+     width: 310px;
+height: 310px;
+border-radius: 155px;
+/* background-color: #716c53; */
+border: 5px solid #ffffff; 
+margin-right: 60px;
+}
+.class5col h1
+{
+    font-size: 102px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.class5col p
+{
+   
+font-size: 33px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Montserrat";
+text-align: center;
+}
+
+/* //////////////////////////////////////classs 6 ////////////////////////// */
+.class6
+{
+    
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/6th\ background\ pic.png');
+    padding: 180px;
+
+
+    background-repeat: no-repeat; 
+}
+
+#popularpackage
+{
+    font-size: 75px;
+color: #f64b3c;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.class6col button
+{
+    width: 200px;
+    height: 60px;
+    border-radius: 32px;
+    background-color: #f64b3c;
+    color: white;
+    font-weight: 700;
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 25px;
+   
+    
+        
+}
+.class6col h1
+{
+    font-size: 33px;
+color: #f64b3c;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+font-size: 33px;
+
+}
+.class6col p
+{
+    font-size: 20px;
+color: #f64b3c;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
+
+
+/* //////////////////////////////class 7 ////////////////////// */
+.class7
+{
+
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/7th\ background\ pic.png');
+    padding: 180px;
+
+    background-repeat: no-repeat;
+}
+.class7 p
+{
+    
+font-size: 36px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.class7 h1
+{
+    font-size: 45px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Calistoga";
+text-align: center;
+}
+
+/* /////////////////////////////////////////// class 8///////////////////////////////////// */
+.class8
+{
+
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/8th\ background\ pic.jpg');
+    padding: 180px;
+
+
+    background-repeat: no-repeat;
+}
+.class8 h1
+{
+
+    font-size: 75px;
+color: #f64b3c;
+font-weight: 700;
+font-family: "Archivo";
+text-align: center;
+}
+.class8 p
+{
+    font-size: 30px;
+    color: #f64b3c;
+    font-weight: 400;
+    font-family: "Nunito";
+    text-align: center;
+}
+.class8 button
+{
+    width: 222px !important;
+    height: 65px !important;
+    border-radius: 30px;
+    background-color: #f64b3c;
+    color: white;
+font-size: 25px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Nunito";
+
+}
+
+.class8 input
+{
+    width: 549px !important;
+height: 63px !important;
+border-radius: 30px;
+background-color: white;
+border-color: white;
+/* //for input */
+font-size: 25px;
+color: #835e3f;
+font-weight: 400;
+font-family: "Nunito";
+/* text-align: center; */
+}
+
+
+/* ////////////////// .class9//////////////////////////////// */
+.class9
+{
+    height: auto;
+    background-size: cover;
+    background-image: url('Assignment\ 5\ Assest/9th\ background\ pic.png');
+    padding: 180px;
+
+
+    background-repeat: no-repeat;
+    color: white;
+}
+.class9 h1
+{
+    font-size: 31px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Archivo";
+}
+.class9 p{
+    font-size: 24px;
+line-height: 42px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Nunito";
+}
+.class9 span
+{
+    font-size: 20px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Nunito";
+}
+.class9 img
+{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+/* /////////////////responsive//////////////////// */
+
+
+@media(min-width:992px)
+{
+
+}
+
+@media(min-width: 768px) and (max-witdh: 991px)
+{
+    
+}
+
+
+@media(min-width: 575px) and (max-witdh: 767px)
+{
+    
+}
+
+
+@media(min-width: 480px) and (max-witdh: 574px)
+{
+    
+}
+
+@media(max-width: 479px)
+{
+
+}
